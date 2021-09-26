@@ -7,12 +7,12 @@ import 'firebase/compat/firestore';
   
 
   const firebaseConfig ={
-    apiKey: "AIzaSyDBgcDZX63JrL9_iplHBNFBohI2bWyebiA",
-  authDomain: "professionaled-ef789.firebaseapp.com",
+    apiKey: "yourkey",
+  authDomain: "",
   projectId: "professionaled-ef789",
-  storageBucket: "professionaled-ef789.appspot.com",
-  messagingSenderId: "1062030497100",
-  appId: "1:1062030497100:web:ee10cdc093a54dc0c1ebe9"
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
   };
   const app = firebase.initializeApp(firebaseConfig);
   const db=app.firestore();
