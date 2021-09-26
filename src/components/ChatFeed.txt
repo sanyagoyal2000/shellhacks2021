@@ -1,0 +1,16 @@
+
+import MyMessage from './MyMessage';
+import TheirMessage from './TheirMessage';
+import MessageForm from './Forms/MessageForm';
+const ChatFeed=(props) =>{
+    return (
+        const {chats,}
+         const chat={chats && chats[activeChat];
+        console.log(chat,props.userName,props.message),
+        <div>
+           Chat Feed 
+        </div>
+    );
+}
+
+export default ChatFeed

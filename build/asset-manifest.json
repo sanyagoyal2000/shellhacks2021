@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Professionaled/static/css/main.67d8519e.chunk.css",
+    "main.js": "/Professionaled/static/js/main.d9818e6c.chunk.js",
+    "main.js.map": "/Professionaled/static/js/main.d9818e6c.chunk.js.map",
+    "runtime-main.js": "/Professionaled/static/js/runtime-main.865f4775.js",
+    "runtime-main.js.map": "/Professionaled/static/js/runtime-main.865f4775.js.map",
+    "static/css/2.54bd06d6.chunk.css": "/Professionaled/static/css/2.54bd06d6.chunk.css",
+    "static/js/2.e2ec16bc.chunk.js": "/Professionaled/static/js/2.e2ec16bc.chunk.js",
+    "static/js/2.e2ec16bc.chunk.js.map": "/Professionaled/static/js/2.e2ec16bc.chunk.js.map",
+    "index.html": "/Professionaled/index.html",
+    "static/css/2.54bd06d6.chunk.css.map": "/Professionaled/static/css/2.54bd06d6.chunk.css.map",
+    "static/css/main.67d8519e.chunk.css.map": "/Professionaled/static/css/main.67d8519e.chunk.css.map",
+    "static/js/2.e2ec16bc.chunk.js.LICENSE.txt": "/Professionaled/static/js/2.e2ec16bc.chunk.js.LICENSE.txt",
+    "static/media/doctor.692e5f7f.jpg": "/Professionaled/static/media/doctor.692e5f7f.jpg",
+    "static/media/engineer.56db4085.jpg": "/Professionaled/static/media/engineer.56db4085.jpg",
+    "static/media/lawyer.3d150ed6.jpg": "/Professionaled/static/media/lawyer.3d150ed6.jpg",
+    "static/media/nurse.1e36261a.jpg": "/Professionaled/static/media/nurse.1e36261a.jpg",
+    "static/media/police.110bbbfb.jpg": "/Professionaled/static/media/police.110bbbfb.jpg",
+    "static/media/teacher.dd334176.jpg": "/Professionaled/static/media/teacher.dd334176.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.865f4775.js",
+    "static/css/2.54bd06d6.chunk.css",
+    "static/js/2.e2ec16bc.chunk.js",
+    "static/css/main.67d8519e.chunk.css",
+    "static/js/main.d9818e6c.chunk.js"
+  ]
+}
