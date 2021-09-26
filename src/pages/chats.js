@@ -34,7 +34,7 @@ function Chats() {
        }
        axios.get('https://api.chatengine.io//users/me',{
            headers:{
-            "project-id":"f5c4182d-069e-4b2a-88ab-a1cfd27f671d",
+            "project-id":"",
             "user-name":user.email,
             "user-secret":user.uid,
            }
@@ -51,7 +51,7 @@ function Chats() {
                formdata.append('avatar',avatar,avatar.name);
                axios.post('https://api.chatengine.io/users',formdata,
                {headers:
-                {"private-key":"b5511b00-2aa3-4ad3-bb6a-95bf97e28b5d"}
+                {"private-key":""}
 
                })
            .then(()=>setLoading(false)).catch((error)=>console.log(error))
@@ -78,7 +78,7 @@ function Chats() {
             
             <ChatEngine
         height="100vh"
-        projectID="f5c4182d-069e-4b2a-88ab-a1cfd27f671d"
+        projectID=""
         //userName={user.email}
         //userSecret={user.uid}
         userName="sanyagoyal2000"
