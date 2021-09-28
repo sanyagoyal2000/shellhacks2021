@@ -5,7 +5,8 @@ Created using React.js, Tailwind css, React chat engine and  Firebase
 
 <br/>
 Click here<br/>
-professionaled-7e3ddyvb4-sanyagoyal2000.vercel.app
+https://professionaled.vercel.app/
+
 
 
 ## homepage
