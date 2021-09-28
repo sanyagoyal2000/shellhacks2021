@@ -20,7 +20,7 @@ function Chats() {
 
     }
 
-    /*const getFile= async(url)=>{
+    const getFile= async(url)=>{
         const response=await fetch(url);
         const data=response.blob();
 
@@ -60,7 +60,7 @@ function Chats() {
 
    },[user,history]);
 
-   if(!user || loading)return 'Loading....';*/
+  // if(!user || loading)return 'Loading....';
     return (
         <div>
             <Header/>
